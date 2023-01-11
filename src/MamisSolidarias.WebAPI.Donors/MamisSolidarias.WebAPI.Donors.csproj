@@ -21,7 +21,7 @@
         <PackageReference Include="HotChocolate.Stitching.Redis" Version="12.16.0" />
         <PackageReference Include="libphonenumber-csharp" Version="8.13.3" />
         <PackageReference Include="MamisSolidarias.Utils" Version="1.5.0" />
-        <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.1">
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.2">
           <PrivateAssets>all</PrivateAssets>
           <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
         </PackageReference>
